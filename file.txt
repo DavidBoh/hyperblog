@@ -6,4 +6,4 @@ David Loves to learn things
 
 He's 29 years old
 
-He is currently learning Git
+He is currently learning Git, and python.
