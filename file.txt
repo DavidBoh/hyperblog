@@ -5,3 +5,5 @@ David is an Engineer Student.
 David Loves to learn things
 
 He's 29 years old
+
+He is currently learning Git
