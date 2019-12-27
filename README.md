@@ -13,5 +13,6 @@
 * Trucos locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows Linux y Mac
 
 >En lo personal siempre tengo curiosidad de aprender, y platzi satisface esta curiosidad siempre.
