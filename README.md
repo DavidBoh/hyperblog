@@ -14,5 +14,6 @@
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows Linux y Mac
+* Disponible para todas las edades
 
 >En lo personal siempre tengo curiosidad de aprender, y platzi satisface esta curiosidad siempre.
