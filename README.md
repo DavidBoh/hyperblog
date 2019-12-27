@@ -6,4 +6,11 @@
 
 **Platzi realiza una excelente labor de educación en toda latinoamérica y tiene el potencial de sacar de la pobreza a millones de personas.**
 
+## En el curso se ve de todo
+* Todos los comandos de Git
+* El flujo de trabajo en GitHub
+* El verdadero amor por las buenas practicas
+* Trucos locos del profesor
+* Las personalidades multiples de Freddy
+
 >En lo personal siempre tengo curiosidad de aprender, y platzi satisface esta curiosidad siempre.
