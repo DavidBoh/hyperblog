@@ -12,5 +12,6 @@
 * El verdadero amor por las buenas practicas
 * Trucos locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por el increible Platzi Team
 
 >En lo personal siempre tengo curiosidad de aprender, y platzi satisface esta curiosidad siempre.
